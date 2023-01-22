@@ -1,0 +1,63 @@
+.st0 {
+    fill: url(#SVGID_1_);
+}
+
+.st1 {
+    fill: url(#SVGID_2_);
+}
+
+.st2 {
+    fill: url(#SVGID_3_);
+}
+.offset0 {
+    stop-color:#E2D8AB;
+}
+.offset1 {
+stop-color:#9E805D;
+}
+.svg-class {
+    enable-background:new 0 0 337 68;
+}
+.btn-gold {
+    position: relative;
+    display: inline-block;
+    z-index: 3;
+  }
+  .btn-gold .btn-text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 47%;
+    transform: translateY(-50%);
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    color: #cfb286;
+    font-size: 18px;
+    letter-spacing: 2px;
+  }
+  .btn-gold .st0 {
+    opacity: 0;
+  }
+  .btn-gold .btn-text, .btn-gold .st0, .btn-gold .st1, .btn-gold .st2 {
+    transition: all 0.4s ease-out;
+    transform-origin: center;
+  }
+  .btn-gold:hover .st0 {
+    opacity: 1;
+  }
+  .btn-gold:hover .st1 {
+    transform: scale(0.98, 0.99);
+  }
+  .btn-gold:hover .st0, .btn-gold:hover .st2 {
+    transform: scale(0.97, 0.95);
+  }
+  .btn-gold:hover .btn-text {
+    color: white;
+  }
+  .btn-gold:active .st1 {
+    transform: scale(0.94, 0.88);
+  }
+  .btn-gold:active .st0, .btn-gold:active .st2 {
+    transform: scale(0.95, 0.93);
+  }
