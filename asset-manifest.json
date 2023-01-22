@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactInstaTree/static/css/main.688b16b4.css",
-    "main.js": "/ReactInstaTree/static/js/main.792b0959.js",
+    "main.css": "/ReactInstaTree/static/css/main.d4e970dd.css",
+    "main.js": "/ReactInstaTree/static/js/main.2951bda6.js",
     "static/js/787.e1e31840.chunk.js": "/ReactInstaTree/static/js/787.e1e31840.chunk.js",
     "static/media/desktop.jpg": "/ReactInstaTree/static/media/desktop.8802d27362aecfea8da1.jpg",
     "static/media/mobile.jpg": "/ReactInstaTree/static/media/mobile.72e95c03b2d039b060dd.jpg",
     "index.html": "/ReactInstaTree/index.html",
-    "main.688b16b4.css.map": "/ReactInstaTree/static/css/main.688b16b4.css.map",
-    "main.792b0959.js.map": "/ReactInstaTree/static/js/main.792b0959.js.map",
+    "main.d4e970dd.css.map": "/ReactInstaTree/static/css/main.d4e970dd.css.map",
+    "main.2951bda6.js.map": "/ReactInstaTree/static/js/main.2951bda6.js.map",
     "787.e1e31840.chunk.js.map": "/ReactInstaTree/static/js/787.e1e31840.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.688b16b4.css",
-    "static/js/main.792b0959.js"
+    "static/css/main.d4e970dd.css",
+    "static/js/main.2951bda6.js"
   ]
 }
