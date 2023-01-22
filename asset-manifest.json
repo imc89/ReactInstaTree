@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/ReactInstaTree/static/css/main.d4e970dd.css",
-    "main.js": "/ReactInstaTree/static/js/main.a018cba0.js",
+    "main.css": "/ReactInstaTree/static/css/main.7b58c89d.css",
+    "main.js": "/ReactInstaTree/static/js/main.432371db.js",
     "static/js/787.e1e31840.chunk.js": "/ReactInstaTree/static/js/787.e1e31840.chunk.js",
     "static/media/mobile.jpg": "/ReactInstaTree/static/media/mobile.8e08986c986f40669e83.jpg",
     "static/media/desktop.jpg": "/ReactInstaTree/static/media/desktop.8802d27362aecfea8da1.jpg",
+    "static/media/fog-1.png": "/ReactInstaTree/static/media/fog-1.f941d9347efb2a3e7d1d.png",
+    "static/media/fog-2.png": "/ReactInstaTree/static/media/fog-2.8aeda6af6c952275e3de.png",
     "index.html": "/ReactInstaTree/index.html",
-    "main.d4e970dd.css.map": "/ReactInstaTree/static/css/main.d4e970dd.css.map",
-    "main.a018cba0.js.map": "/ReactInstaTree/static/js/main.a018cba0.js.map",
+    "main.7b58c89d.css.map": "/ReactInstaTree/static/css/main.7b58c89d.css.map",
+    "main.432371db.js.map": "/ReactInstaTree/static/js/main.432371db.js.map",
     "787.e1e31840.chunk.js.map": "/ReactInstaTree/static/js/787.e1e31840.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4e970dd.css",
-    "static/js/main.a018cba0.js"
+    "static/css/main.7b58c89d.css",
+    "static/js/main.432371db.js"
   ]
 }
